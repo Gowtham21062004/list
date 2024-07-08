@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+    background-color: cadetblue;
+    color: white;
+   
+}
+.p1{
+    text-align: justify;
+    border: 2px solid white;
+    border-radius: 10px;
+    background-color: antiquewhite;
+    width: 500px;
+    margin-left: 500px;
+    padding: 5px;
+    font-size: large;
+}
+.unol{
+    text-align: justify;
+    border: 2px solid white;
+    border-radius: 10px;
+    background-color: antiquewhite;
+    width: 500px;
+    margin-left: 500px;
+    padding: 5px;
+    font-size: large;
+}
+.olol{
+    text-align: justify;
+    border: 2px solid white;
+    border-radius: 10px;
+    background-color: antiquewhite;
+    width: 500px;
+    margin-left: 500px;
+    padding: 5px;
+    font-size: large;
+}
